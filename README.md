@@ -3,8 +3,6 @@
 - 🌱 I’m currently learning Web2 and Web3
 - 💞️ I’m looking to collaborate on Web Development Projects
 - 📫 How to reach me Email,Twitter,Github
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 
 <!---
 Anshpatwal/Anshpatwal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
