@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Anshpatwal
-- 👀 I’m interested in Blockchain
-- 🌱 I’m currently learning Web2 and Web3
+- 👀 I’m interested in Blockchain and Generative AI
 - 💞️ I’m looking to collaborate on Web Development Projects
 - 📫 How to reach me ? Email,Twitter,Github,Linkedin
 
